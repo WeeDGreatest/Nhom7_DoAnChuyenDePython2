@@ -1,4 +1,4 @@
-# SocialNetwork_Django Project Preview
+<!-- # SocialNetwork_Django Project Preview
 
 ## Home News Feed
 ![](preview/homeFeed.PNG)
@@ -51,4 +51,4 @@
 ## Profanity check
   <img src="preview/profanity.PNG" width="99%" /> 
 
-
+ -->
